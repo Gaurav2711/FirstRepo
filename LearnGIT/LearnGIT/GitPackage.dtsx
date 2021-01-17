@@ -11,20 +11,20 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{BF02F419-2C49-45A3-AFD0-3122C46F5C03}">
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{C8B5F1A8-885D-47DF-B2B4-3812C0CEC3DB}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\Test main abc latest"
+      DTS:refId="Package\Test main abc latest1"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
       DTS:DTSID="{D9CABB9A-D425-4EE3-912A-7DC42178B2EC}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
-      DTS:ObjectName="Test main abc latest"
+      DTS:ObjectName="Test main abc latest1"
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:ObjectData>
@@ -46,8 +46,8 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="173.777777777778,41.7777777777778"
-          Id="Package\Test main abc latest"
+          Size="179.555555555556,41.7777777777778"
+          Id="Package\Test main abc latest1"
           TopLeft="236.249990612269,188.724144137289" />
       </GraphLayout>
     </LayoutInfo>
